@@ -1,0 +1,53 @@
+.main{
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+p {
+    font-size: 35px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: green;
+}
+#quote-container {
+    margin-top: 20px;
+}
+
+#quote-display {
+    
+    font-size: 35px;
+ 
+}
+
+#author-display {
+   font-size: 35px;
+    margin-top: 10px;
+}
